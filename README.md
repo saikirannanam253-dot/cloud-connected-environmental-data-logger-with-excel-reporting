@@ -73,7 +73,7 @@ Whenever the smoke level exceeds the predefined threshold, the LPC2148 activates
 ## 🔄 Working Principle
 
 <p align="center">
-  <img src="./Working Principle.png" alt="Working Principle" width="1000">
+  <img src="./working principle.png" alt="Working Principle" width="1000">
 </p>
 
 The system starts by initializing the LPC2148 microcontroller, LCD, RTC, ADC, UART, ESP-01 Wi-Fi module, sensors, and external interrupt. The LM35 temperature sensor and MQ2 gas sensor continuously monitor the environmental conditions.
