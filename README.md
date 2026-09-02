@@ -161,8 +161,10 @@ Cloud Connected Environmental Data Logger with Excel Reporting/
 
 During normal operation, the system continuously monitors the environmental conditions and displays the **temperature and smoke level** on the 16×2 LCD.
 
+
 <p align="center">
-  <img src="./cloud%20connected%20environmental%20data%20logger%20with%20excel%20reporting/images/normal_monitoring.jpeg" alt="Normal Monitoring" width="700">
+  <img src="./temperature.jpeg" alt="Working Principle" width="1000">
+</p>g.jpeg" alt="Normal Monitoring" width="700">
 </p>
 
 ### 🌡️ Temperature Monitoring
